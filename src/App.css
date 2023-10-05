@@ -1,0 +1,5 @@
+.label {
+  background: linear-gradient(135deg, #6366f7, #a855f7, #ec4899);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
